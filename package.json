@@ -1,0 +1,15 @@
+{
+  "name": "science-code",
+  "version": "1.0.0",
+  "description": "Platform Science Code Exercise",
+  "main": "index.js",
+  "type":"commonjs",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Luis Carlos de la Torre Flores",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
